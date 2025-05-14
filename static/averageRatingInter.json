@@ -1,0 +1,5062 @@
+[
+  {
+    "Country": "Afghanistan",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.5
+  },
+  {
+    "Country": "Afghanistan",
+    "Genre": "War",
+    "Rating (Avg)": 3.5
+  },
+  {
+    "Country": "Albania",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.06
+  },
+  {
+    "Country": "Algeria",
+    "Genre": "Drama",
+    "Rating (Avg)": 4.41
+  },
+  {
+    "Country": "Algeria",
+    "Genre": "History",
+    "Rating (Avg)": 4.41
+  },
+  {
+    "Country": "Algeria",
+    "Genre": "War",
+    "Rating (Avg)": 4.41
+  },
+  {
+    "Country": "Argentina",
+    "Genre": "Action",
+    "Rating (Avg)": 2.35
+  },
+  {
+    "Country": "Argentina",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.22
+  },
+  {
+    "Country": "Argentina",
+    "Genre": "Animation",
+    "Rating (Avg)": 2.38
+  },
+  {
+    "Country": "Argentina",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.24
+  },
+  {
+    "Country": "Argentina",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.56
+  },
+  {
+    "Country": "Argentina",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.53
+  },
+  {
+    "Country": "Argentina",
+    "Genre": "Family",
+    "Rating (Avg)": 2.88
+  },
+  {
+    "Country": "Argentina",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 2.22
+  },
+  {
+    "Country": "Argentina",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.45
+  },
+  {
+    "Country": "Argentina",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.52
+  },
+  {
+    "Country": "Argentina",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.38
+  },
+  {
+    "Country": "Aruba",
+    "Genre": "Action",
+    "Rating (Avg)": 2.08
+  },
+  {
+    "Country": "Aruba",
+    "Genre": "Thriller",
+    "Rating (Avg)": 2.08
+  },
+  {
+    "Country": "Australia",
+    "Genre": "Action",
+    "Rating (Avg)": 3.07
+  },
+  {
+    "Country": "Australia",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.16
+  },
+  {
+    "Country": "Australia",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.21
+  },
+  {
+    "Country": "Australia",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.16
+  },
+  {
+    "Country": "Australia",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.27
+  },
+  {
+    "Country": "Australia",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.3
+  },
+  {
+    "Country": "Australia",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.33
+  },
+  {
+    "Country": "Australia",
+    "Genre": "Family",
+    "Rating (Avg)": 3.0
+  },
+  {
+    "Country": "Australia",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.11
+  },
+  {
+    "Country": "Australia",
+    "Genre": "History",
+    "Rating (Avg)": 3.46
+  },
+  {
+    "Country": "Australia",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.02
+  },
+  {
+    "Country": "Australia",
+    "Genre": "Music",
+    "Rating (Avg)": 3.16
+  },
+  {
+    "Country": "Australia",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.01
+  },
+  {
+    "Country": "Australia",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.18
+  },
+  {
+    "Country": "Australia",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.26
+  },
+  {
+    "Country": "Australia",
+    "Genre": "TV Movie",
+    "Rating (Avg)": 3.06
+  },
+  {
+    "Country": "Australia",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.11
+  },
+  {
+    "Country": "Australia",
+    "Genre": "War",
+    "Rating (Avg)": 3.55
+  },
+  {
+    "Country": "Australia",
+    "Genre": "Western",
+    "Rating (Avg)": 3.44
+  },
+  {
+    "Country": "Austria",
+    "Genre": "Action",
+    "Rating (Avg)": 3.22
+  },
+  {
+    "Country": "Austria",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.06
+  },
+  {
+    "Country": "Austria",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.16
+  },
+  {
+    "Country": "Austria",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.84
+  },
+  {
+    "Country": "Austria",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.7
+  },
+  {
+    "Country": "Austria",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.27
+  },
+  {
+    "Country": "Austria",
+    "Genre": "History",
+    "Rating (Avg)": 4.11
+  },
+  {
+    "Country": "Austria",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.38
+  },
+  {
+    "Country": "Austria",
+    "Genre": "Music",
+    "Rating (Avg)": 3.09
+  },
+  {
+    "Country": "Austria",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.8
+  },
+  {
+    "Country": "Austria",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.67
+  },
+  {
+    "Country": "Austria",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.27
+  },
+  {
+    "Country": "Austria",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.5
+  },
+  {
+    "Country": "Austria",
+    "Genre": "War",
+    "Rating (Avg)": 4.11
+  },
+  {
+    "Country": "Austria",
+    "Genre": "Western",
+    "Rating (Avg)": 3.36
+  },
+  {
+    "Country": "Bahamas",
+    "Genre": "Action",
+    "Rating (Avg)": 3.1
+  },
+  {
+    "Country": "Bahamas",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.91
+  },
+  {
+    "Country": "Bahamas",
+    "Genre": "Comedy",
+    "Rating (Avg)": 2.81
+  },
+  {
+    "Country": "Bahamas",
+    "Genre": "Drama",
+    "Rating (Avg)": 2.88
+  },
+  {
+    "Country": "Bahamas",
+    "Genre": "Romance",
+    "Rating (Avg)": 2.64
+  },
+  {
+    "Country": "Bahamas",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.04
+  },
+  {
+    "Country": "Bahamas",
+    "Genre": "Thriller",
+    "Rating (Avg)": 2.67
+  },
+  {
+    "Country": "Belgium",
+    "Genre": "Action",
+    "Rating (Avg)": 3.08
+  },
+  {
+    "Country": "Belgium",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.18
+  },
+  {
+    "Country": "Belgium",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.69
+  },
+  {
+    "Country": "Belgium",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.54
+  },
+  {
+    "Country": "Belgium",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.32
+  },
+  {
+    "Country": "Belgium",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.72
+  },
+  {
+    "Country": "Belgium",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.44
+  },
+  {
+    "Country": "Belgium",
+    "Genre": "Family",
+    "Rating (Avg)": 3.62
+  },
+  {
+    "Country": "Belgium",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.45
+  },
+  {
+    "Country": "Belgium",
+    "Genre": "History",
+    "Rating (Avg)": 3.35
+  },
+  {
+    "Country": "Belgium",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.42
+  },
+  {
+    "Country": "Belgium",
+    "Genre": "Music",
+    "Rating (Avg)": 4.04
+  },
+  {
+    "Country": "Belgium",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.15
+  },
+  {
+    "Country": "Belgium",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.39
+  },
+  {
+    "Country": "Belgium",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.15
+  },
+  {
+    "Country": "Belgium",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.16
+  },
+  {
+    "Country": "Belgium",
+    "Genre": "War",
+    "Rating (Avg)": 3.42
+  },
+  {
+    "Country": "Belgium",
+    "Genre": "Western",
+    "Rating (Avg)": 3.41
+  },
+  {
+    "Country": "Benin",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.6
+  },
+  {
+    "Country": "Bolivia",
+    "Genre": "Action",
+    "Rating (Avg)": 3.27
+  },
+  {
+    "Country": "Bolivia",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.27
+  },
+  {
+    "Country": "Bolivia",
+    "Genre": "Drama",
+    "Rating (Avg)": 2.54
+  },
+  {
+    "Country": "Bolivia",
+    "Genre": "Thriller",
+    "Rating (Avg)": 2.54
+  },
+  {
+    "Country": "Bolivia",
+    "Genre": "Western",
+    "Rating (Avg)": 3.27
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Genre": "Crime",
+    "Rating (Avg)": 4.16
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Genre": "Drama",
+    "Rating (Avg)": 4.16
+  },
+  {
+    "Country": "Botswana",
+    "Genre": "Action",
+    "Rating (Avg)": 3.41
+  },
+  {
+    "Country": "Botswana",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.41
+  },
+  {
+    "Country": "Brazil",
+    "Genre": "Action",
+    "Rating (Avg)": 2.84
+  },
+  {
+    "Country": "Brazil",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.78
+  },
+  {
+    "Country": "Brazil",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.33
+  },
+  {
+    "Country": "Brazil",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.38
+  },
+  {
+    "Country": "Brazil",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.5
+  },
+  {
+    "Country": "Brazil",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.84
+  },
+  {
+    "Country": "Brazil",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.52
+  },
+  {
+    "Country": "Brazil",
+    "Genre": "Family",
+    "Rating (Avg)": 3.33
+  },
+  {
+    "Country": "Brazil",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.62
+  },
+  {
+    "Country": "Brazil",
+    "Genre": "History",
+    "Rating (Avg)": 2.99
+  },
+  {
+    "Country": "Brazil",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.46
+  },
+  {
+    "Country": "Brazil",
+    "Genre": "Music",
+    "Rating (Avg)": 3.4
+  },
+  {
+    "Country": "Brazil",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.72
+  },
+  {
+    "Country": "Brazil",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.28
+  },
+  {
+    "Country": "Brazil",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.36
+  },
+  {
+    "Country": "Brazil",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.2
+  },
+  {
+    "Country": "Brazil",
+    "Genre": "War",
+    "Rating (Avg)": 3.94
+  },
+  {
+    "Country": "Brazil",
+    "Genre": "Western",
+    "Rating (Avg)": 3.3
+  },
+  {
+    "Country": "Bulgaria",
+    "Genre": "Action",
+    "Rating (Avg)": 2.38
+  },
+  {
+    "Country": "Bulgaria",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.34
+  },
+  {
+    "Country": "Bulgaria",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.7
+  },
+  {
+    "Country": "Bulgaria",
+    "Genre": "Crime",
+    "Rating (Avg)": 2.39
+  },
+  {
+    "Country": "Bulgaria",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.37
+  },
+  {
+    "Country": "Bulgaria",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 2.24
+  },
+  {
+    "Country": "Bulgaria",
+    "Genre": "History",
+    "Rating (Avg)": 3.82
+  },
+  {
+    "Country": "Bulgaria",
+    "Genre": "Horror",
+    "Rating (Avg)": 2.34
+  },
+  {
+    "Country": "Bulgaria",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 2.6
+  },
+  {
+    "Country": "Bulgaria",
+    "Genre": "Thriller",
+    "Rating (Avg)": 2.63
+  },
+  {
+    "Country": "Bulgaria",
+    "Genre": "War",
+    "Rating (Avg)": 2.44
+  },
+  {
+    "Country": "Burkina Faso",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.66
+  },
+  {
+    "Country": "Cambodia",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.8
+  },
+  {
+    "Country": "Cambodia",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.8
+  },
+  {
+    "Country": "Cambodia",
+    "Genre": "History",
+    "Rating (Avg)": 3.8
+  },
+  {
+    "Country": "Cambodia",
+    "Genre": "War",
+    "Rating (Avg)": 3.8
+  },
+  {
+    "Country": "Canada",
+    "Genre": "Action",
+    "Rating (Avg)": 2.58
+  },
+  {
+    "Country": "Canada",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.8
+  },
+  {
+    "Country": "Canada",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.11
+  },
+  {
+    "Country": "Canada",
+    "Genre": "Comedy",
+    "Rating (Avg)": 2.99
+  },
+  {
+    "Country": "Canada",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.06
+  },
+  {
+    "Country": "Canada",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.52
+  },
+  {
+    "Country": "Canada",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.17
+  },
+  {
+    "Country": "Canada",
+    "Genre": "Family",
+    "Rating (Avg)": 2.97
+  },
+  {
+    "Country": "Canada",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 2.87
+  },
+  {
+    "Country": "Canada",
+    "Genre": "History",
+    "Rating (Avg)": 3.25
+  },
+  {
+    "Country": "Canada",
+    "Genre": "Horror",
+    "Rating (Avg)": 2.81
+  },
+  {
+    "Country": "Canada",
+    "Genre": "Music",
+    "Rating (Avg)": 3.26
+  },
+  {
+    "Country": "Canada",
+    "Genre": "Mystery",
+    "Rating (Avg)": 2.94
+  },
+  {
+    "Country": "Canada",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.26
+  },
+  {
+    "Country": "Canada",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 2.78
+  },
+  {
+    "Country": "Canada",
+    "Genre": "TV Movie",
+    "Rating (Avg)": 2.75
+  },
+  {
+    "Country": "Canada",
+    "Genre": "Thriller",
+    "Rating (Avg)": 2.87
+  },
+  {
+    "Country": "Canada",
+    "Genre": "War",
+    "Rating (Avg)": 3.48
+  },
+  {
+    "Country": "Canada",
+    "Genre": "Western",
+    "Rating (Avg)": 3.17
+  },
+  {
+    "Country": "Chad",
+    "Genre": "Action",
+    "Rating (Avg)": 3.59
+  },
+  {
+    "Country": "Chad",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.58
+  },
+  {
+    "Country": "Chad",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.59
+  },
+  {
+    "Country": "Chile",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.35
+  },
+  {
+    "Country": "Chile",
+    "Genre": "Animation",
+    "Rating (Avg)": 4.13
+  },
+  {
+    "Country": "Chile",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.2
+  },
+  {
+    "Country": "Chile",
+    "Genre": "Crime",
+    "Rating (Avg)": 1.97
+  },
+  {
+    "Country": "Chile",
+    "Genre": "Documentary",
+    "Rating (Avg)": 4.09
+  },
+  {
+    "Country": "Chile",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.57
+  },
+  {
+    "Country": "Chile",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.87
+  },
+  {
+    "Country": "Chile",
+    "Genre": "History",
+    "Rating (Avg)": 3.44
+  },
+  {
+    "Country": "Chile",
+    "Genre": "Horror",
+    "Rating (Avg)": 2.93
+  },
+  {
+    "Country": "Chile",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.28
+  },
+  {
+    "Country": "Chile",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.24
+  },
+  {
+    "Country": "Chile",
+    "Genre": "Thriller",
+    "Rating (Avg)": 1.97
+  },
+  {
+    "Country": "China",
+    "Genre": "Action",
+    "Rating (Avg)": 2.98
+  },
+  {
+    "Country": "China",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.95
+  },
+  {
+    "Country": "China",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.16
+  },
+  {
+    "Country": "China",
+    "Genre": "Comedy",
+    "Rating (Avg)": 2.93
+  },
+  {
+    "Country": "China",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.29
+  },
+  {
+    "Country": "China",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.95
+  },
+  {
+    "Country": "China",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.47
+  },
+  {
+    "Country": "China",
+    "Genre": "Family",
+    "Rating (Avg)": 3.03
+  },
+  {
+    "Country": "China",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 2.82
+  },
+  {
+    "Country": "China",
+    "Genre": "History",
+    "Rating (Avg)": 3.43
+  },
+  {
+    "Country": "China",
+    "Genre": "Horror",
+    "Rating (Avg)": 2.14
+  },
+  {
+    "Country": "China",
+    "Genre": "Music",
+    "Rating (Avg)": 3.09
+  },
+  {
+    "Country": "China",
+    "Genre": "Mystery",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "China",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.57
+  },
+  {
+    "Country": "China",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 2.8
+  },
+  {
+    "Country": "China",
+    "Genre": "Thriller",
+    "Rating (Avg)": 2.93
+  },
+  {
+    "Country": "China",
+    "Genre": "War",
+    "Rating (Avg)": 3.54
+  },
+  {
+    "Country": "Colombia",
+    "Genre": "Action",
+    "Rating (Avg)": 2.92
+  },
+  {
+    "Country": "Colombia",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.57
+  },
+  {
+    "Country": "Colombia",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.57
+  },
+  {
+    "Country": "Colombia",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.93
+  },
+  {
+    "Country": "Colombia",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.43
+  },
+  {
+    "Country": "Colombia",
+    "Genre": "Family",
+    "Rating (Avg)": 3.57
+  },
+  {
+    "Country": "Colombia",
+    "Genre": "History",
+    "Rating (Avg)": 3.1
+  },
+  {
+    "Country": "Colombia",
+    "Genre": "Horror",
+    "Rating (Avg)": 2.68
+  },
+  {
+    "Country": "Colombia",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.77
+  },
+  {
+    "Country": "Colombia",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.77
+  },
+  {
+    "Country": "Costa Rica",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.66
+  },
+  {
+    "Country": "Costa Rica",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.66
+  },
+  {
+    "Country": "Croatia",
+    "Genre": "Action",
+    "Rating (Avg)": 1.86
+  },
+  {
+    "Country": "Croatia",
+    "Genre": "Adventure",
+    "Rating (Avg)": 1.86
+  },
+  {
+    "Country": "Croatia",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.7
+  },
+  {
+    "Country": "Croatia",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.68
+  },
+  {
+    "Country": "Croatia",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 1.86
+  },
+  {
+    "Country": "Croatia",
+    "Genre": "War",
+    "Rating (Avg)": 1.86
+  },
+  {
+    "Country": "Cross Country",
+    "Genre": "Action",
+    "Rating (Avg)": 2.97
+  },
+  {
+    "Country": "Cross Country",
+    "Genre": "Comedy",
+    "Rating (Avg)": 2.97
+  },
+  {
+    "Country": "Cuba",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.9
+  },
+  {
+    "Country": "Cuba",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.02
+  },
+  {
+    "Country": "Cuba",
+    "Genre": "Music",
+    "Rating (Avg)": 3.7
+  },
+  {
+    "Country": "Czechia",
+    "Genre": "Action",
+    "Rating (Avg)": 2.96
+  },
+  {
+    "Country": "Czechia",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "Czechia",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.66
+  },
+  {
+    "Country": "Czechia",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.56
+  },
+  {
+    "Country": "Czechia",
+    "Genre": "Crime",
+    "Rating (Avg)": 2.89
+  },
+  {
+    "Country": "Czechia",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.6
+  },
+  {
+    "Country": "Czechia",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.5
+  },
+  {
+    "Country": "Czechia",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.39
+  },
+  {
+    "Country": "Czechia",
+    "Genre": "History",
+    "Rating (Avg)": 3.53
+  },
+  {
+    "Country": "Czechia",
+    "Genre": "Horror",
+    "Rating (Avg)": 2.87
+  },
+  {
+    "Country": "Czechia",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.56
+  },
+  {
+    "Country": "Czechia",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.22
+  },
+  {
+    "Country": "Czechia",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 2.32
+  },
+  {
+    "Country": "Czechia",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.21
+  },
+  {
+    "Country": "Czechia",
+    "Genre": "War",
+    "Rating (Avg)": 3.33
+  },
+  {
+    "Country": "Czechia",
+    "Genre": "Western",
+    "Rating (Avg)": 3.65
+  },
+  {
+    "Country": "Czechoslovakia",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.25
+  },
+  {
+    "Country": "Czechoslovakia",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.43
+  },
+  {
+    "Country": "Czechoslovakia",
+    "Genre": "Comedy",
+    "Rating (Avg)": 4.06
+  },
+  {
+    "Country": "Czechoslovakia",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.95
+  },
+  {
+    "Country": "Czechoslovakia",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.25
+  },
+  {
+    "Country": "Czechoslovakia",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.86
+  },
+  {
+    "Country": "Czechoslovakia",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 4.02
+  },
+  {
+    "Country": "Czechoslovakia",
+    "Genre": "War",
+    "Rating (Avg)": 4.07
+  },
+  {
+    "Country": "Denmark",
+    "Genre": "Action",
+    "Rating (Avg)": 3.53
+  },
+  {
+    "Country": "Denmark",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.12
+  },
+  {
+    "Country": "Denmark",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.31
+  },
+  {
+    "Country": "Denmark",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.45
+  },
+  {
+    "Country": "Denmark",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.66
+  },
+  {
+    "Country": "Denmark",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.7
+  },
+  {
+    "Country": "Denmark",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.57
+  },
+  {
+    "Country": "Denmark",
+    "Genre": "Family",
+    "Rating (Avg)": 3.35
+  },
+  {
+    "Country": "Denmark",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.44
+  },
+  {
+    "Country": "Denmark",
+    "Genre": "History",
+    "Rating (Avg)": 3.54
+  },
+  {
+    "Country": "Denmark",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.28
+  },
+  {
+    "Country": "Denmark",
+    "Genre": "Music",
+    "Rating (Avg)": 3.83
+  },
+  {
+    "Country": "Denmark",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.35
+  },
+  {
+    "Country": "Denmark",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.56
+  },
+  {
+    "Country": "Denmark",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.16
+  },
+  {
+    "Country": "Denmark",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.4
+  },
+  {
+    "Country": "Denmark",
+    "Genre": "War",
+    "Rating (Avg)": 3.4
+  },
+  {
+    "Country": "Denmark",
+    "Genre": "Western",
+    "Rating (Avg)": 3.22
+  },
+  {
+    "Country": "Dominican Republic",
+    "Genre": "Action",
+    "Rating (Avg)": 2.95
+  },
+  {
+    "Country": "Dominican Republic",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.65
+  },
+  {
+    "Country": "Ecuador",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.45
+  },
+  {
+    "Country": "Ecuador",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.45
+  },
+  {
+    "Country": "Ecuador",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.45
+  },
+  {
+    "Country": "Egypt",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.35
+  },
+  {
+    "Country": "Egypt",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.35
+  },
+  {
+    "Country": "Egypt",
+    "Genre": "Horror",
+    "Rating (Avg)": 2.36
+  },
+  {
+    "Country": "Estonia",
+    "Genre": "Animation",
+    "Rating (Avg)": 2.36
+  },
+  {
+    "Country": "Estonia",
+    "Genre": "Comedy",
+    "Rating (Avg)": 2.36
+  },
+  {
+    "Country": "Estonia",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.76
+  },
+  {
+    "Country": "Estonia",
+    "Genre": "War",
+    "Rating (Avg)": 3.74
+  },
+  {
+    "Country": "Finland",
+    "Genre": "Action",
+    "Rating (Avg)": 2.93
+  },
+  {
+    "Country": "Finland",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.96
+  },
+  {
+    "Country": "Finland",
+    "Genre": "Animation",
+    "Rating (Avg)": 2.62
+  },
+  {
+    "Country": "Finland",
+    "Genre": "Comedy",
+    "Rating (Avg)": 2.97
+  },
+  {
+    "Country": "Finland",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.77
+  },
+  {
+    "Country": "Finland",
+    "Genre": "Documentary",
+    "Rating (Avg)": 4.12
+  },
+  {
+    "Country": "Finland",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.62
+  },
+  {
+    "Country": "Finland",
+    "Genre": "Family",
+    "Rating (Avg)": 2.62
+  },
+  {
+    "Country": "Finland",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.51
+  },
+  {
+    "Country": "Finland",
+    "Genre": "History",
+    "Rating (Avg)": 3.44
+  },
+  {
+    "Country": "Finland",
+    "Genre": "Horror",
+    "Rating (Avg)": 2.94
+  },
+  {
+    "Country": "Finland",
+    "Genre": "Music",
+    "Rating (Avg)": 4.12
+  },
+  {
+    "Country": "Finland",
+    "Genre": "Mystery",
+    "Rating (Avg)": 2.94
+  },
+  {
+    "Country": "Finland",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.29
+  },
+  {
+    "Country": "Finland",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 2.54
+  },
+  {
+    "Country": "Finland",
+    "Genre": "Thriller",
+    "Rating (Avg)": 2.97
+  },
+  {
+    "Country": "Finland",
+    "Genre": "War",
+    "Rating (Avg)": 3.36
+  },
+  {
+    "Country": "France",
+    "Genre": "Action",
+    "Rating (Avg)": 3.08
+  },
+  {
+    "Country": "France",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.22
+  },
+  {
+    "Country": "France",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.51
+  },
+  {
+    "Country": "France",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.43
+  },
+  {
+    "Country": "France",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.37
+  },
+  {
+    "Country": "France",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.81
+  },
+  {
+    "Country": "France",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.5
+  },
+  {
+    "Country": "France",
+    "Genre": "Family",
+    "Rating (Avg)": 3.37
+  },
+  {
+    "Country": "France",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.34
+  },
+  {
+    "Country": "France",
+    "Genre": "History",
+    "Rating (Avg)": 3.55
+  },
+  {
+    "Country": "France",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.14
+  },
+  {
+    "Country": "France",
+    "Genre": "Music",
+    "Rating (Avg)": 3.49
+  },
+  {
+    "Country": "France",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.39
+  },
+  {
+    "Country": "France",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.55
+  },
+  {
+    "Country": "France",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.28
+  },
+  {
+    "Country": "France",
+    "Genre": "TV Movie",
+    "Rating (Avg)": 3.46
+  },
+  {
+    "Country": "France",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.35
+  },
+  {
+    "Country": "France",
+    "Genre": "War",
+    "Rating (Avg)": 3.58
+  },
+  {
+    "Country": "France",
+    "Genre": "Western",
+    "Rating (Avg)": 3.37
+  },
+  {
+    "Country": "Georgia",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.5
+  },
+  {
+    "Country": "Georgia",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.78
+  },
+  {
+    "Country": "Georgia",
+    "Genre": "War",
+    "Rating (Avg)": 4.07
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Action",
+    "Rating (Avg)": 2.93
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.99
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.2
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Captivating vision and Shakespearean drama",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.19
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.36
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.98
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.5
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Epic adventure and breathtaking battles",
+    "Rating (Avg)": 3.04
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Epic heroes",
+    "Rating (Avg)": 2.95
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Epic history and literature",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Family",
+    "Rating (Avg)": 3.14
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.2
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Fantasy adventure, heroism, and swordplay",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Historical battles and epic heroism",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "Germany",
+    "Genre": "History",
+    "Rating (Avg)": 3.48
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.08
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Music",
+    "Rating (Avg)": 3.45
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.3
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.31
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.02
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Show All\u2026",
+    "Rating (Avg)": 2.95
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Superheroes in action-packed battles with villains",
+    "Rating (Avg)": 3.04
+  },
+  {
+    "Country": "Germany",
+    "Genre": "TV Movie",
+    "Rating (Avg)": 3.22
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.17
+  },
+  {
+    "Country": "Germany",
+    "Genre": "War",
+    "Rating (Avg)": 3.49
+  },
+  {
+    "Country": "Germany",
+    "Genre": "Western",
+    "Rating (Avg)": 3.59
+  },
+  {
+    "Country": "Ghana",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.49
+  },
+  {
+    "Country": "Ghana",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.49
+  },
+  {
+    "Country": "Ghana",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.49
+  },
+  {
+    "Country": "Greece",
+    "Genre": "Action",
+    "Rating (Avg)": 2.73
+  },
+  {
+    "Country": "Greece",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.12
+  },
+  {
+    "Country": "Greece",
+    "Genre": "Animation",
+    "Rating (Avg)": 2.36
+  },
+  {
+    "Country": "Greece",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.37
+  },
+  {
+    "Country": "Greece",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.45
+  },
+  {
+    "Country": "Greece",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.49
+  },
+  {
+    "Country": "Greece",
+    "Genre": "Horror",
+    "Rating (Avg)": 2.68
+  },
+  {
+    "Country": "Greece",
+    "Genre": "Music",
+    "Rating (Avg)": 3.5
+  },
+  {
+    "Country": "Greece",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.45
+  },
+  {
+    "Country": "Greece",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.73
+  },
+  {
+    "Country": "Greece",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.12
+  },
+  {
+    "Country": "Greece",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.04
+  },
+  {
+    "Country": "Haiti",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.6
+  },
+  {
+    "Country": "Hong Kong",
+    "Genre": "Action",
+    "Rating (Avg)": 3.26
+  },
+  {
+    "Country": "Hong Kong",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.18
+  },
+  {
+    "Country": "Hong Kong",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.0
+  },
+  {
+    "Country": "Hong Kong",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.34
+  },
+  {
+    "Country": "Hong Kong",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.52
+  },
+  {
+    "Country": "Hong Kong",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.29
+  },
+  {
+    "Country": "Hong Kong",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.53
+  },
+  {
+    "Country": "Hong Kong",
+    "Genre": "Family",
+    "Rating (Avg)": 2.98
+  },
+  {
+    "Country": "Hong Kong",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.09
+  },
+  {
+    "Country": "Hong Kong",
+    "Genre": "History",
+    "Rating (Avg)": 3.36
+  },
+  {
+    "Country": "Hong Kong",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.24
+  },
+  {
+    "Country": "Hong Kong",
+    "Genre": "Music",
+    "Rating (Avg)": 3.22
+  },
+  {
+    "Country": "Hong Kong",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.27
+  },
+  {
+    "Country": "Hong Kong",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.85
+  },
+  {
+    "Country": "Hong Kong",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 2.93
+  },
+  {
+    "Country": "Hong Kong",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.34
+  },
+  {
+    "Country": "Hong Kong",
+    "Genre": "War",
+    "Rating (Avg)": 3.48
+  },
+  {
+    "Country": "Hong Kong",
+    "Genre": "Western",
+    "Rating (Avg)": 3.22
+  },
+  {
+    "Country": "Hungary",
+    "Genre": "Action",
+    "Rating (Avg)": 2.69
+  },
+  {
+    "Country": "Hungary",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.02
+  },
+  {
+    "Country": "Hungary",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.55
+  },
+  {
+    "Country": "Hungary",
+    "Genre": "Comedy",
+    "Rating (Avg)": 2.78
+  },
+  {
+    "Country": "Hungary",
+    "Genre": "Crime",
+    "Rating (Avg)": 2.75
+  },
+  {
+    "Country": "Hungary",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.58
+  },
+  {
+    "Country": "Hungary",
+    "Genre": "Family",
+    "Rating (Avg)": 2.7
+  },
+  {
+    "Country": "Hungary",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.03
+  },
+  {
+    "Country": "Hungary",
+    "Genre": "History",
+    "Rating (Avg)": 3.08
+  },
+  {
+    "Country": "Hungary",
+    "Genre": "Horror",
+    "Rating (Avg)": 2.91
+  },
+  {
+    "Country": "Hungary",
+    "Genre": "Music",
+    "Rating (Avg)": 2.2
+  },
+  {
+    "Country": "Hungary",
+    "Genre": "Mystery",
+    "Rating (Avg)": 2.71
+  },
+  {
+    "Country": "Hungary",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.58
+  },
+  {
+    "Country": "Hungary",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.42
+  },
+  {
+    "Country": "Hungary",
+    "Genre": "TV Movie",
+    "Rating (Avg)": 3.19
+  },
+  {
+    "Country": "Hungary",
+    "Genre": "Thriller",
+    "Rating (Avg)": 2.98
+  },
+  {
+    "Country": "Hungary",
+    "Genre": "Western",
+    "Rating (Avg)": 3.36
+  },
+  {
+    "Country": "Iceland",
+    "Genre": "Action",
+    "Rating (Avg)": 3.25
+  },
+  {
+    "Country": "Iceland",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.19
+  },
+  {
+    "Country": "Iceland",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.54
+  },
+  {
+    "Country": "Iceland",
+    "Genre": "Crime",
+    "Rating (Avg)": 4.2
+  },
+  {
+    "Country": "Iceland",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.33
+  },
+  {
+    "Country": "Iceland",
+    "Genre": "Family",
+    "Rating (Avg)": 3.63
+  },
+  {
+    "Country": "Iceland",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.23
+  },
+  {
+    "Country": "Iceland",
+    "Genre": "History",
+    "Rating (Avg)": 3.13
+  },
+  {
+    "Country": "Iceland",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.18
+  },
+  {
+    "Country": "Iceland",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.27
+  },
+  {
+    "Country": "Iceland",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 2.78
+  },
+  {
+    "Country": "Iceland",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.06
+  },
+  {
+    "Country": "India",
+    "Genre": "Action",
+    "Rating (Avg)": 2.84
+  },
+  {
+    "Country": "India",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.8
+  },
+  {
+    "Country": "India",
+    "Genre": "Animation",
+    "Rating (Avg)": 2.06
+  },
+  {
+    "Country": "India",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.01
+  },
+  {
+    "Country": "India",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.15
+  },
+  {
+    "Country": "India",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.88
+  },
+  {
+    "Country": "India",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.45
+  },
+  {
+    "Country": "India",
+    "Genre": "Family",
+    "Rating (Avg)": 2.11
+  },
+  {
+    "Country": "India",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 2.56
+  },
+  {
+    "Country": "India",
+    "Genre": "History",
+    "Rating (Avg)": 3.49
+  },
+  {
+    "Country": "India",
+    "Genre": "Horror",
+    "Rating (Avg)": 2.48
+  },
+  {
+    "Country": "India",
+    "Genre": "Music",
+    "Rating (Avg)": 4.04
+  },
+  {
+    "Country": "India",
+    "Genre": "Mystery",
+    "Rating (Avg)": 2.84
+  },
+  {
+    "Country": "India",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.66
+  },
+  {
+    "Country": "India",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 2.6
+  },
+  {
+    "Country": "India",
+    "Genre": "Thriller",
+    "Rating (Avg)": 2.91
+  },
+  {
+    "Country": "India",
+    "Genre": "War",
+    "Rating (Avg)": 3.73
+  },
+  {
+    "Country": "India",
+    "Genre": "Western",
+    "Rating (Avg)": 2.33
+  },
+  {
+    "Country": "Indonesia",
+    "Genre": "Action",
+    "Rating (Avg)": 3.73
+  },
+  {
+    "Country": "Indonesia",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.88
+  },
+  {
+    "Country": "Indonesia",
+    "Genre": "Documentary",
+    "Rating (Avg)": 4.39
+  },
+  {
+    "Country": "Indonesia",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.68
+  },
+  {
+    "Country": "Indonesia",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.32
+  },
+  {
+    "Country": "Indonesia",
+    "Genre": "History",
+    "Rating (Avg)": 3.68
+  },
+  {
+    "Country": "Indonesia",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.23
+  },
+  {
+    "Country": "Indonesia",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.14
+  },
+  {
+    "Country": "Indonesia",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.32
+  },
+  {
+    "Country": "Indonesia",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.83
+  },
+  {
+    "Country": "Iran",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.93
+  },
+  {
+    "Country": "Iran",
+    "Genre": "Crime",
+    "Rating (Avg)": 4.42
+  },
+  {
+    "Country": "Iran",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.93
+  },
+  {
+    "Country": "Iran",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.91
+  },
+  {
+    "Country": "Iran",
+    "Genre": "Family",
+    "Rating (Avg)": 4.04
+  },
+  {
+    "Country": "Iraq",
+    "Genre": "Documentary",
+    "Rating (Avg)": 4.15
+  },
+  {
+    "Country": "Iraq",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.26
+  },
+  {
+    "Country": "Iraq",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.26
+  },
+  {
+    "Country": "Ireland",
+    "Genre": "Action",
+    "Rating (Avg)": 2.92
+  },
+  {
+    "Country": "Ireland",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.99
+  },
+  {
+    "Country": "Ireland",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.48
+  },
+  {
+    "Country": "Ireland",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.3
+  },
+  {
+    "Country": "Ireland",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.22
+  },
+  {
+    "Country": "Ireland",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.46
+  },
+  {
+    "Country": "Ireland",
+    "Genre": "Family",
+    "Rating (Avg)": 3.48
+  },
+  {
+    "Country": "Ireland",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.5
+  },
+  {
+    "Country": "Ireland",
+    "Genre": "History",
+    "Rating (Avg)": 3.42
+  },
+  {
+    "Country": "Ireland",
+    "Genre": "Horror",
+    "Rating (Avg)": 2.94
+  },
+  {
+    "Country": "Ireland",
+    "Genre": "Music",
+    "Rating (Avg)": 3.45
+  },
+  {
+    "Country": "Ireland",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.1
+  },
+  {
+    "Country": "Ireland",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.49
+  },
+  {
+    "Country": "Ireland",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 2.98
+  },
+  {
+    "Country": "Ireland",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.21
+  },
+  {
+    "Country": "Ireland",
+    "Genre": "War",
+    "Rating (Avg)": 3.6
+  },
+  {
+    "Country": "Ireland",
+    "Genre": "Western",
+    "Rating (Avg)": 3.02
+  },
+  {
+    "Country": "Israel",
+    "Genre": "Action",
+    "Rating (Avg)": 2.27
+  },
+  {
+    "Country": "Israel",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.24
+  },
+  {
+    "Country": "Israel",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.36
+  },
+  {
+    "Country": "Israel",
+    "Genre": "Family",
+    "Rating (Avg)": 3.24
+  },
+  {
+    "Country": "Israel",
+    "Genre": "History",
+    "Rating (Avg)": 3.24
+  },
+  {
+    "Country": "Israel",
+    "Genre": "Horror",
+    "Rating (Avg)": 2.27
+  },
+  {
+    "Country": "Israel",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.27
+  },
+  {
+    "Country": "Israel",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 2.27
+  },
+  {
+    "Country": "Israel",
+    "Genre": "Thriller",
+    "Rating (Avg)": 2.27
+  },
+  {
+    "Country": "Israel",
+    "Genre": "War",
+    "Rating (Avg)": 3.1
+  },
+  {
+    "Country": "Israel",
+    "Genre": "Western",
+    "Rating (Avg)": 3.3
+  },
+  {
+    "Country": "Italy",
+    "Genre": "Action",
+    "Rating (Avg)": 3.01
+  },
+  {
+    "Country": "Italy",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.03
+  },
+  {
+    "Country": "Italy",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.25
+  },
+  {
+    "Country": "Italy",
+    "Genre": "Captivating vision and Shakespearean drama",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "Italy",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.38
+  },
+  {
+    "Country": "Italy",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.38
+  },
+  {
+    "Country": "Italy",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.55
+  },
+  {
+    "Country": "Italy",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.59
+  },
+  {
+    "Country": "Italy",
+    "Genre": "Epic heroes",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "Italy",
+    "Genre": "Epic history and literature",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "Italy",
+    "Genre": "Family",
+    "Rating (Avg)": 3.04
+  },
+  {
+    "Country": "Italy",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.05
+  },
+  {
+    "Country": "Italy",
+    "Genre": "Fantasy adventure, heroism, and swordplay",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "Italy",
+    "Genre": "Historical battles and epic heroism",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "Italy",
+    "Genre": "History",
+    "Rating (Avg)": 3.48
+  },
+  {
+    "Country": "Italy",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.14
+  },
+  {
+    "Country": "Italy",
+    "Genre": "Music",
+    "Rating (Avg)": 3.67
+  },
+  {
+    "Country": "Italy",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.43
+  },
+  {
+    "Country": "Italy",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.52
+  },
+  {
+    "Country": "Italy",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 2.9
+  },
+  {
+    "Country": "Italy",
+    "Genre": "Show All\u2026",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "Italy",
+    "Genre": "TV Movie",
+    "Rating (Avg)": 3.43
+  },
+  {
+    "Country": "Italy",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.32
+  },
+  {
+    "Country": "Italy",
+    "Genre": "War",
+    "Rating (Avg)": 3.49
+  },
+  {
+    "Country": "Italy",
+    "Genre": "Western",
+    "Rating (Avg)": 3.43
+  },
+  {
+    "Country": "Jamaica",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.69
+  },
+  {
+    "Country": "Jamaica",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.69
+  },
+  {
+    "Country": "Jamaica",
+    "Genre": "Music",
+    "Rating (Avg)": 3.69
+  },
+  {
+    "Country": "Japan",
+    "Genre": "Action",
+    "Rating (Avg)": 3.29
+  },
+  {
+    "Country": "Japan",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.3
+  },
+  {
+    "Country": "Japan",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.55
+  },
+  {
+    "Country": "Japan",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.43
+  },
+  {
+    "Country": "Japan",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.64
+  },
+  {
+    "Country": "Japan",
+    "Genre": "Documentary",
+    "Rating (Avg)": 4.3
+  },
+  {
+    "Country": "Japan",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.72
+  },
+  {
+    "Country": "Japan",
+    "Genre": "Family",
+    "Rating (Avg)": 3.41
+  },
+  {
+    "Country": "Japan",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.47
+  },
+  {
+    "Country": "Japan",
+    "Genre": "History",
+    "Rating (Avg)": 3.78
+  },
+  {
+    "Country": "Japan",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.25
+  },
+  {
+    "Country": "Japan",
+    "Genre": "Music",
+    "Rating (Avg)": 3.55
+  },
+  {
+    "Country": "Japan",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.68
+  },
+  {
+    "Country": "Japan",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.53
+  },
+  {
+    "Country": "Japan",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.2
+  },
+  {
+    "Country": "Japan",
+    "Genre": "TV Movie",
+    "Rating (Avg)": 2.97
+  },
+  {
+    "Country": "Japan",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.32
+  },
+  {
+    "Country": "Japan",
+    "Genre": "War",
+    "Rating (Avg)": 3.77
+  },
+  {
+    "Country": "Japan",
+    "Genre": "Western",
+    "Rating (Avg)": 3.67
+  },
+  {
+    "Country": "Jordan",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.15
+  },
+  {
+    "Country": "Jordan",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.48
+  },
+  {
+    "Country": "Jordan",
+    "Genre": "War",
+    "Rating (Avg)": 3.48
+  },
+  {
+    "Country": "Kenya",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.67
+  },
+  {
+    "Country": "Kosovo",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.29
+  },
+  {
+    "Country": "Kuwait",
+    "Genre": "Action",
+    "Rating (Avg)": 3.86
+  },
+  {
+    "Country": "Kuwait",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.86
+  },
+  {
+    "Country": "Kuwait",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.56
+  },
+  {
+    "Country": "Kuwait",
+    "Genre": "History",
+    "Rating (Avg)": 3.86
+  },
+  {
+    "Country": "Kuwait",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.26
+  },
+  {
+    "Country": "Lao People's Democratic Republic",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.64
+  },
+  {
+    "Country": "Lao People's Democratic Republic",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.64
+  },
+  {
+    "Country": "Lao People's Democratic Republic",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.64
+  },
+  {
+    "Country": "Latvia",
+    "Genre": "Animation",
+    "Rating (Avg)": 4.01
+  },
+  {
+    "Country": "Latvia",
+    "Genre": "Comedy",
+    "Rating (Avg)": 4.01
+  },
+  {
+    "Country": "Latvia",
+    "Genre": "Drama",
+    "Rating (Avg)": 4.01
+  },
+  {
+    "Country": "Latvia",
+    "Genre": "Family",
+    "Rating (Avg)": 4.01
+  },
+  {
+    "Country": "Lebanon",
+    "Genre": "Action",
+    "Rating (Avg)": 3.86
+  },
+  {
+    "Country": "Lebanon",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.86
+  },
+  {
+    "Country": "Lebanon",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.52
+  },
+  {
+    "Country": "Lebanon",
+    "Genre": "Comedy",
+    "Rating (Avg)": 2.67
+  },
+  {
+    "Country": "Lebanon",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.74
+  },
+  {
+    "Country": "Lebanon",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.94
+  },
+  {
+    "Country": "Lebanon",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.64
+  },
+  {
+    "Country": "Lebanon",
+    "Genre": "History",
+    "Rating (Avg)": 4.0
+  },
+  {
+    "Country": "Lebanon",
+    "Genre": "War",
+    "Rating (Avg)": 3.75
+  },
+  {
+    "Country": "Libya",
+    "Genre": "Action",
+    "Rating (Avg)": 3.86
+  },
+  {
+    "Country": "Libya",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.86
+  },
+  {
+    "Country": "Libya",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.88
+  },
+  {
+    "Country": "Libya",
+    "Genre": "History",
+    "Rating (Avg)": 3.88
+  },
+  {
+    "Country": "Libya",
+    "Genre": "War",
+    "Rating (Avg)": 3.9
+  },
+  {
+    "Country": "Liechtenstein",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.14
+  },
+  {
+    "Country": "Liechtenstein",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.14
+  },
+  {
+    "Country": "Lithuania",
+    "Genre": "Action",
+    "Rating (Avg)": 2.44
+  },
+  {
+    "Country": "Lithuania",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.44
+  },
+  {
+    "Country": "Lithuania",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.66
+  },
+  {
+    "Country": "Lithuania",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.32
+  },
+  {
+    "Country": "Lithuania",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 1.57
+  },
+  {
+    "Country": "Lithuania",
+    "Genre": "History",
+    "Rating (Avg)": 3.49
+  },
+  {
+    "Country": "Lithuania",
+    "Genre": "War",
+    "Rating (Avg)": 3.32
+  },
+  {
+    "Country": "Luxembourg",
+    "Genre": "Action",
+    "Rating (Avg)": 3.14
+  },
+  {
+    "Country": "Luxembourg",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.54
+  },
+  {
+    "Country": "Luxembourg",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.81
+  },
+  {
+    "Country": "Luxembourg",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.28
+  },
+  {
+    "Country": "Luxembourg",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.46
+  },
+  {
+    "Country": "Luxembourg",
+    "Genre": "Documentary",
+    "Rating (Avg)": 4.0
+  },
+  {
+    "Country": "Luxembourg",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.39
+  },
+  {
+    "Country": "Luxembourg",
+    "Genre": "Family",
+    "Rating (Avg)": 3.94
+  },
+  {
+    "Country": "Luxembourg",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.57
+  },
+  {
+    "Country": "Luxembourg",
+    "Genre": "History",
+    "Rating (Avg)": 3.24
+  },
+  {
+    "Country": "Luxembourg",
+    "Genre": "Horror",
+    "Rating (Avg)": 2.93
+  },
+  {
+    "Country": "Luxembourg",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.32
+  },
+  {
+    "Country": "Luxembourg",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.28
+  },
+  {
+    "Country": "Luxembourg",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.07
+  },
+  {
+    "Country": "Luxembourg",
+    "Genre": "Thriller",
+    "Rating (Avg)": 2.88
+  },
+  {
+    "Country": "Luxembourg",
+    "Genre": "War",
+    "Rating (Avg)": 3.3
+  },
+  {
+    "Country": "Malawi",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.67
+  },
+  {
+    "Country": "Malawi",
+    "Genre": "History",
+    "Rating (Avg)": 3.67
+  },
+  {
+    "Country": "Malaysia",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.88
+  },
+  {
+    "Country": "Malaysia",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.24
+  },
+  {
+    "Country": "Malaysia",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.32
+  },
+  {
+    "Country": "Malaysia",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.16
+  },
+  {
+    "Country": "Malaysia",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.18
+  },
+  {
+    "Country": "Malaysia",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.32
+  },
+  {
+    "Country": "Malaysia",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.18
+  },
+  {
+    "Country": "Malaysia",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.18
+  },
+  {
+    "Country": "Mali",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.66
+  },
+  {
+    "Country": "Malta",
+    "Genre": "Action",
+    "Rating (Avg)": 3.35
+  },
+  {
+    "Country": "Malta",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.34
+  },
+  {
+    "Country": "Malta",
+    "Genre": "History",
+    "Rating (Avg)": 3.35
+  },
+  {
+    "Country": "Malta",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.35
+  },
+  {
+    "Country": "Malta",
+    "Genre": "War",
+    "Rating (Avg)": 3.35
+  },
+  {
+    "Country": "Mexico",
+    "Genre": "Action",
+    "Rating (Avg)": 3.1
+  },
+  {
+    "Country": "Mexico",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.09
+  },
+  {
+    "Country": "Mexico",
+    "Genre": "Animation",
+    "Rating (Avg)": 2.38
+  },
+  {
+    "Country": "Mexico",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.23
+  },
+  {
+    "Country": "Mexico",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.53
+  },
+  {
+    "Country": "Mexico",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.62
+  },
+  {
+    "Country": "Mexico",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.52
+  },
+  {
+    "Country": "Mexico",
+    "Genre": "Family",
+    "Rating (Avg)": 2.32
+  },
+  {
+    "Country": "Mexico",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.29
+  },
+  {
+    "Country": "Mexico",
+    "Genre": "History",
+    "Rating (Avg)": 3.72
+  },
+  {
+    "Country": "Mexico",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.06
+  },
+  {
+    "Country": "Mexico",
+    "Genre": "Mystery",
+    "Rating (Avg)": 2.99
+  },
+  {
+    "Country": "Mexico",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.41
+  },
+  {
+    "Country": "Mexico",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 2.89
+  },
+  {
+    "Country": "Mexico",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.22
+  },
+  {
+    "Country": "Mexico",
+    "Genre": "War",
+    "Rating (Avg)": 3.65
+  },
+  {
+    "Country": "Mexico",
+    "Genre": "Western",
+    "Rating (Avg)": 3.18
+  },
+  {
+    "Country": "Monaco",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.5
+  },
+  {
+    "Country": "Monaco",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.5
+  },
+  {
+    "Country": "Monaco",
+    "Genre": "Western",
+    "Rating (Avg)": 3.34
+  },
+  {
+    "Country": "Mongolia",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.3
+  },
+  {
+    "Country": "Mongolia",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.3
+  },
+  {
+    "Country": "Mongolia",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.3
+  },
+  {
+    "Country": "Mongolia",
+    "Genre": "Family",
+    "Rating (Avg)": 3.3
+  },
+  {
+    "Country": "Montenegro",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.28
+  },
+  {
+    "Country": "Montenegro",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 1.86
+  },
+  {
+    "Country": "Montenegro",
+    "Genre": "Horror",
+    "Rating (Avg)": 1.86
+  },
+  {
+    "Country": "Montenegro",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.28
+  },
+  {
+    "Country": "Morocco",
+    "Genre": "Action",
+    "Rating (Avg)": 3.5
+  },
+  {
+    "Country": "Morocco",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.43
+  },
+  {
+    "Country": "Morocco",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.31
+  },
+  {
+    "Country": "Morocco",
+    "Genre": "History",
+    "Rating (Avg)": 3.86
+  },
+  {
+    "Country": "Morocco",
+    "Genre": "Music",
+    "Rating (Avg)": 2.93
+  },
+  {
+    "Country": "Morocco",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.15
+  },
+  {
+    "Country": "Morocco",
+    "Genre": "War",
+    "Rating (Avg)": 3.15
+  },
+  {
+    "Country": "Morocco",
+    "Genre": "Western",
+    "Rating (Avg)": 3.27
+  },
+  {
+    "Country": "Nepal",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.59
+  },
+  {
+    "Country": "Nepal",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.74
+  },
+  {
+    "Country": "Nepal",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.59
+  },
+  {
+    "Country": "Netherlands",
+    "Genre": "Action",
+    "Rating (Avg)": 2.8
+  },
+  {
+    "Country": "Netherlands",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.94
+  },
+  {
+    "Country": "Netherlands",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.62
+  },
+  {
+    "Country": "Netherlands",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.35
+  },
+  {
+    "Country": "Netherlands",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.49
+  },
+  {
+    "Country": "Netherlands",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.4
+  },
+  {
+    "Country": "Netherlands",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.51
+  },
+  {
+    "Country": "Netherlands",
+    "Genre": "Family",
+    "Rating (Avg)": 3.31
+  },
+  {
+    "Country": "Netherlands",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.23
+  },
+  {
+    "Country": "Netherlands",
+    "Genre": "History",
+    "Rating (Avg)": 3.49
+  },
+  {
+    "Country": "Netherlands",
+    "Genre": "Horror",
+    "Rating (Avg)": 2.92
+  },
+  {
+    "Country": "Netherlands",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.53
+  },
+  {
+    "Country": "Netherlands",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.27
+  },
+  {
+    "Country": "Netherlands",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 2.8
+  },
+  {
+    "Country": "Netherlands",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.4
+  },
+  {
+    "Country": "Netherlands",
+    "Genre": "War",
+    "Rating (Avg)": 3.27
+  },
+  {
+    "Country": "Netherlands",
+    "Genre": "Western",
+    "Rating (Avg)": 3.36
+  },
+  {
+    "Country": "Netherlands Antilles",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.6
+  },
+  {
+    "Country": "Netherlands Antilles",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.6
+  },
+  {
+    "Country": "Netherlands Antilles",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.6
+  },
+  {
+    "Country": "Netherlands Antilles",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.6
+  },
+  {
+    "Country": "New Zealand",
+    "Genre": "Action",
+    "Rating (Avg)": 3.17
+  },
+  {
+    "Country": "New Zealand",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.23
+  },
+  {
+    "Country": "New Zealand",
+    "Genre": "Animation",
+    "Rating (Avg)": 2.88
+  },
+  {
+    "Country": "New Zealand",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.42
+  },
+  {
+    "Country": "New Zealand",
+    "Genre": "Crime",
+    "Rating (Avg)": 2.92
+  },
+  {
+    "Country": "New Zealand",
+    "Genre": "Documentary",
+    "Rating (Avg)": 4.12
+  },
+  {
+    "Country": "New Zealand",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.44
+  },
+  {
+    "Country": "New Zealand",
+    "Genre": "Family",
+    "Rating (Avg)": 2.92
+  },
+  {
+    "Country": "New Zealand",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.21
+  },
+  {
+    "Country": "New Zealand",
+    "Genre": "History",
+    "Rating (Avg)": 3.62
+  },
+  {
+    "Country": "New Zealand",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.2
+  },
+  {
+    "Country": "New Zealand",
+    "Genre": "Music",
+    "Rating (Avg)": 3.28
+  },
+  {
+    "Country": "New Zealand",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.48
+  },
+  {
+    "Country": "New Zealand",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.33
+  },
+  {
+    "Country": "New Zealand",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.11
+  },
+  {
+    "Country": "New Zealand",
+    "Genre": "TV Movie",
+    "Rating (Avg)": 3.02
+  },
+  {
+    "Country": "New Zealand",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.19
+  },
+  {
+    "Country": "New Zealand",
+    "Genre": "War",
+    "Rating (Avg)": 3.51
+  },
+  {
+    "Country": "New Zealand",
+    "Genre": "Western",
+    "Rating (Avg)": 3.67
+  },
+  {
+    "Country": "Nicaragua",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.78
+  },
+  {
+    "Country": "Nicaragua",
+    "Genre": "History",
+    "Rating (Avg)": 3.78
+  },
+  {
+    "Country": "Nicaragua",
+    "Genre": "Western",
+    "Rating (Avg)": 3.78
+  },
+  {
+    "Country": "Nigeria",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.07
+  },
+  {
+    "Country": "Nigeria",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.07
+  },
+  {
+    "Country": "North Korea",
+    "Genre": "Animation",
+    "Rating (Avg)": 1.54
+  },
+  {
+    "Country": "North Korea",
+    "Genre": "Family",
+    "Rating (Avg)": 1.54
+  },
+  {
+    "Country": "Norway",
+    "Genre": "Action",
+    "Rating (Avg)": 3.42
+  },
+  {
+    "Country": "Norway",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.17
+  },
+  {
+    "Country": "Norway",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.94
+  },
+  {
+    "Country": "Norway",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.55
+  },
+  {
+    "Country": "Norway",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.8
+  },
+  {
+    "Country": "Norway",
+    "Genre": "Documentary",
+    "Rating (Avg)": 4.39
+  },
+  {
+    "Country": "Norway",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.66
+  },
+  {
+    "Country": "Norway",
+    "Genre": "Family",
+    "Rating (Avg)": 3.94
+  },
+  {
+    "Country": "Norway",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.42
+  },
+  {
+    "Country": "Norway",
+    "Genre": "History",
+    "Rating (Avg)": 3.63
+  },
+  {
+    "Country": "Norway",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.46
+  },
+  {
+    "Country": "Norway",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.54
+  },
+  {
+    "Country": "Norway",
+    "Genre": "Romance",
+    "Rating (Avg)": 4.1
+  },
+  {
+    "Country": "Norway",
+    "Genre": "TV Movie",
+    "Rating (Avg)": 4.28
+  },
+  {
+    "Country": "Norway",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.58
+  },
+  {
+    "Country": "Norway",
+    "Genre": "War",
+    "Rating (Avg)": 3.44
+  },
+  {
+    "Country": "Norway",
+    "Genre": "Western",
+    "Rating (Avg)": 3.22
+  },
+  {
+    "Country": "Pakistan",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.84
+  },
+  {
+    "Country": "Panama",
+    "Genre": "Drama",
+    "Rating (Avg)": 2.99
+  },
+  {
+    "Country": "Peru",
+    "Genre": "Action",
+    "Rating (Avg)": 2.66
+  },
+  {
+    "Country": "Peru",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.96
+  },
+  {
+    "Country": "Peru",
+    "Genre": "Documentary",
+    "Rating (Avg)": 4.08
+  },
+  {
+    "Country": "Peru",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.28
+  },
+  {
+    "Country": "Peru",
+    "Genre": "Horror",
+    "Rating (Avg)": 2.59
+  },
+  {
+    "Country": "Peru",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 2.77
+  },
+  {
+    "Country": "Peru",
+    "Genre": "Thriller",
+    "Rating (Avg)": 2.62
+  },
+  {
+    "Country": "Philippines",
+    "Genre": "Action",
+    "Rating (Avg)": 2.98
+  },
+  {
+    "Country": "Philippines",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.99
+  },
+  {
+    "Country": "Philippines",
+    "Genre": "Comedy",
+    "Rating (Avg)": 2.29
+  },
+  {
+    "Country": "Philippines",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.1
+  },
+  {
+    "Country": "Philippines",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.04
+  },
+  {
+    "Country": "Philippines",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 2.41
+  },
+  {
+    "Country": "Philippines",
+    "Genre": "History",
+    "Rating (Avg)": 3.43
+  },
+  {
+    "Country": "Philippines",
+    "Genre": "Horror",
+    "Rating (Avg)": 2.7
+  },
+  {
+    "Country": "Philippines",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 2.76
+  },
+  {
+    "Country": "Philippines",
+    "Genre": "Thriller",
+    "Rating (Avg)": 2.94
+  },
+  {
+    "Country": "Philippines",
+    "Genre": "War",
+    "Rating (Avg)": 3.05
+  },
+  {
+    "Country": "Poland",
+    "Genre": "Action",
+    "Rating (Avg)": 3.18
+  },
+  {
+    "Country": "Poland",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "Poland",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.56
+  },
+  {
+    "Country": "Poland",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.21
+  },
+  {
+    "Country": "Poland",
+    "Genre": "Crime",
+    "Rating (Avg)": 4.12
+  },
+  {
+    "Country": "Poland",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.6
+  },
+  {
+    "Country": "Poland",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.54
+  },
+  {
+    "Country": "Poland",
+    "Genre": "Family",
+    "Rating (Avg)": 3.13
+  },
+  {
+    "Country": "Poland",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.15
+  },
+  {
+    "Country": "Poland",
+    "Genre": "History",
+    "Rating (Avg)": 3.81
+  },
+  {
+    "Country": "Poland",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.29
+  },
+  {
+    "Country": "Poland",
+    "Genre": "Music",
+    "Rating (Avg)": 3.58
+  },
+  {
+    "Country": "Poland",
+    "Genre": "Mystery",
+    "Rating (Avg)": 4.16
+  },
+  {
+    "Country": "Poland",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.53
+  },
+  {
+    "Country": "Poland",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.16
+  },
+  {
+    "Country": "Poland",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.25
+  },
+  {
+    "Country": "Poland",
+    "Genre": "War",
+    "Rating (Avg)": 3.89
+  },
+  {
+    "Country": "Portugal",
+    "Genre": "Action",
+    "Rating (Avg)": 3.17
+  },
+  {
+    "Country": "Portugal",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.22
+  },
+  {
+    "Country": "Portugal",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.2
+  },
+  {
+    "Country": "Portugal",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.18
+  },
+  {
+    "Country": "Portugal",
+    "Genre": "Documentary",
+    "Rating (Avg)": 4.06
+  },
+  {
+    "Country": "Portugal",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.35
+  },
+  {
+    "Country": "Portugal",
+    "Genre": "History",
+    "Rating (Avg)": 3.11
+  },
+  {
+    "Country": "Portugal",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.19
+  },
+  {
+    "Country": "Portugal",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.18
+  },
+  {
+    "Country": "Portugal",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.12
+  },
+  {
+    "Country": "Portugal",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.18
+  },
+  {
+    "Country": "Portugal",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.18
+  },
+  {
+    "Country": "Puerto Rico",
+    "Genre": "Drama",
+    "Rating (Avg)": 2.05
+  },
+  {
+    "Country": "Puerto Rico",
+    "Genre": "Horror",
+    "Rating (Avg)": 2.67
+  },
+  {
+    "Country": "Puerto Rico",
+    "Genre": "Mystery",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "Puerto Rico",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 2.05
+  },
+  {
+    "Country": "Puerto Rico",
+    "Genre": "Thriller",
+    "Rating (Avg)": 2.46
+  },
+  {
+    "Country": "Qatar",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.27
+  },
+  {
+    "Country": "Qatar",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.52
+  },
+  {
+    "Country": "Qatar",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.75
+  },
+  {
+    "Country": "Qatar",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.4
+  },
+  {
+    "Country": "Qatar",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.48
+  },
+  {
+    "Country": "Qatar",
+    "Genre": "War",
+    "Rating (Avg)": 3.62
+  },
+  {
+    "Country": "Romania",
+    "Genre": "Action",
+    "Rating (Avg)": 2.47
+  },
+  {
+    "Country": "Romania",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.43
+  },
+  {
+    "Country": "Romania",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.42
+  },
+  {
+    "Country": "Romania",
+    "Genre": "Crime",
+    "Rating (Avg)": 2.63
+  },
+  {
+    "Country": "Romania",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.62
+  },
+  {
+    "Country": "Romania",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.54
+  },
+  {
+    "Country": "Romania",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 2.95
+  },
+  {
+    "Country": "Romania",
+    "Genre": "History",
+    "Rating (Avg)": 3.6
+  },
+  {
+    "Country": "Romania",
+    "Genre": "Horror",
+    "Rating (Avg)": 2.87
+  },
+  {
+    "Country": "Romania",
+    "Genre": "Mystery",
+    "Rating (Avg)": 2.89
+  },
+  {
+    "Country": "Romania",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.44
+  },
+  {
+    "Country": "Romania",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 2.76
+  },
+  {
+    "Country": "Romania",
+    "Genre": "Thriller",
+    "Rating (Avg)": 2.97
+  },
+  {
+    "Country": "Romania",
+    "Genre": "War",
+    "Rating (Avg)": 3.44
+  },
+  {
+    "Country": "Romania",
+    "Genre": "Western",
+    "Rating (Avg)": 3.56
+  },
+  {
+    "Country": "Russia",
+    "Genre": "Action",
+    "Rating (Avg)": 2.78
+  },
+  {
+    "Country": "Russia",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.72
+  },
+  {
+    "Country": "Russia",
+    "Genre": "Comedy",
+    "Rating (Avg)": 2.89
+  },
+  {
+    "Country": "Russia",
+    "Genre": "Crime",
+    "Rating (Avg)": 2.78
+  },
+  {
+    "Country": "Russia",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.43
+  },
+  {
+    "Country": "Russia",
+    "Genre": "Family",
+    "Rating (Avg)": 2.06
+  },
+  {
+    "Country": "Russia",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 2.78
+  },
+  {
+    "Country": "Russia",
+    "Genre": "History",
+    "Rating (Avg)": 3.27
+  },
+  {
+    "Country": "Russia",
+    "Genre": "Horror",
+    "Rating (Avg)": 2.89
+  },
+  {
+    "Country": "Russia",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.16
+  },
+  {
+    "Country": "Russia",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.16
+  },
+  {
+    "Country": "Russia",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 2.85
+  },
+  {
+    "Country": "Russia",
+    "Genre": "Thriller",
+    "Rating (Avg)": 2.93
+  },
+  {
+    "Country": "Russia",
+    "Genre": "War",
+    "Rating (Avg)": 3.23
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.81
+  },
+  {
+    "Country": "Senegal",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.68
+  },
+  {
+    "Country": "Senegal",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.68
+  },
+  {
+    "Country": "Senegal",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.68
+  },
+  {
+    "Country": "Serbia",
+    "Genre": "Crime",
+    "Rating (Avg)": 2.28
+  },
+  {
+    "Country": "Serbia",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.48
+  },
+  {
+    "Country": "Serbia",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 2.76
+  },
+  {
+    "Country": "Serbia",
+    "Genre": "Horror",
+    "Rating (Avg)": 2.18
+  },
+  {
+    "Country": "Serbia",
+    "Genre": "Mystery",
+    "Rating (Avg)": 2.75
+  },
+  {
+    "Country": "Serbia",
+    "Genre": "Thriller",
+    "Rating (Avg)": 2.68
+  },
+  {
+    "Country": "Singapore",
+    "Genre": "Action",
+    "Rating (Avg)": 3.68
+  },
+  {
+    "Country": "Singapore",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.32
+  },
+  {
+    "Country": "Singapore",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.32
+  },
+  {
+    "Country": "Singapore",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.53
+  },
+  {
+    "Country": "Singapore",
+    "Genre": "History",
+    "Rating (Avg)": 3.68
+  },
+  {
+    "Country": "Singapore",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.64
+  },
+  {
+    "Country": "Singapore",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.32
+  },
+  {
+    "Country": "Singapore",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.56
+  },
+  {
+    "Country": "Singapore",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.68
+  },
+  {
+    "Country": "Slovakia",
+    "Genre": "Action",
+    "Rating (Avg)": 2.75
+  },
+  {
+    "Country": "Slovakia",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.75
+  },
+  {
+    "Country": "Slovakia",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.85
+  },
+  {
+    "Country": "Slovakia",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.54
+  },
+  {
+    "Country": "Slovakia",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.25
+  },
+  {
+    "Country": "Slovakia",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.05
+  },
+  {
+    "Country": "Slovakia",
+    "Genre": "Music",
+    "Rating (Avg)": 3.22
+  },
+  {
+    "Country": "Slovakia",
+    "Genre": "War",
+    "Rating (Avg)": 2.44
+  },
+  {
+    "Country": "Slovenia",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.64
+  },
+  {
+    "Country": "South Africa",
+    "Genre": "Action",
+    "Rating (Avg)": 2.78
+  },
+  {
+    "Country": "South Africa",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.38
+  },
+  {
+    "Country": "South Africa",
+    "Genre": "Animation",
+    "Rating (Avg)": 2.51
+  },
+  {
+    "Country": "South Africa",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.24
+  },
+  {
+    "Country": "South Africa",
+    "Genre": "Documentary",
+    "Rating (Avg)": 4.12
+  },
+  {
+    "Country": "South Africa",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.08
+  },
+  {
+    "Country": "South Africa",
+    "Genre": "Epic adventure and breathtaking battles",
+    "Rating (Avg)": 3.04
+  },
+  {
+    "Country": "South Africa",
+    "Genre": "Epic heroes",
+    "Rating (Avg)": 3.04
+  },
+  {
+    "Country": "South Africa",
+    "Genre": "Family",
+    "Rating (Avg)": 2.5
+  },
+  {
+    "Country": "South Africa",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 2.02
+  },
+  {
+    "Country": "South Africa",
+    "Genre": "History",
+    "Rating (Avg)": 3.3
+  },
+  {
+    "Country": "South Africa",
+    "Genre": "Horror",
+    "Rating (Avg)": 2.45
+  },
+  {
+    "Country": "South Africa",
+    "Genre": "Music",
+    "Rating (Avg)": 4.12
+  },
+  {
+    "Country": "South Africa",
+    "Genre": "Romance",
+    "Rating (Avg)": 2.54
+  },
+  {
+    "Country": "South Africa",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "South Africa",
+    "Genre": "Show All\u2026",
+    "Rating (Avg)": 3.04
+  },
+  {
+    "Country": "South Africa",
+    "Genre": "Superheroes in action-packed battles with villains",
+    "Rating (Avg)": 3.04
+  },
+  {
+    "Country": "South Africa",
+    "Genre": "Thriller",
+    "Rating (Avg)": 2.59
+  },
+  {
+    "Country": "South Africa",
+    "Genre": "Western",
+    "Rating (Avg)": 3.12
+  },
+  {
+    "Country": "South Korea",
+    "Genre": "Action",
+    "Rating (Avg)": 3.26
+  },
+  {
+    "Country": "South Korea",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.16
+  },
+  {
+    "Country": "South Korea",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.08
+  },
+  {
+    "Country": "South Korea",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.43
+  },
+  {
+    "Country": "South Korea",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.35
+  },
+  {
+    "Country": "South Korea",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.49
+  },
+  {
+    "Country": "South Korea",
+    "Genre": "Family",
+    "Rating (Avg)": 2.81
+  },
+  {
+    "Country": "South Korea",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.04
+  },
+  {
+    "Country": "South Korea",
+    "Genre": "History",
+    "Rating (Avg)": 3.57
+  },
+  {
+    "Country": "South Korea",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.21
+  },
+  {
+    "Country": "South Korea",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.49
+  },
+  {
+    "Country": "South Korea",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.72
+  },
+  {
+    "Country": "South Korea",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.05
+  },
+  {
+    "Country": "South Korea",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.38
+  },
+  {
+    "Country": "South Korea",
+    "Genre": "War",
+    "Rating (Avg)": 3.49
+  },
+  {
+    "Country": "South Korea",
+    "Genre": "Western",
+    "Rating (Avg)": 3.72
+  },
+  {
+    "Country": "Spain",
+    "Genre": "Action",
+    "Rating (Avg)": 3.07
+  },
+  {
+    "Country": "Spain",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.07
+  },
+  {
+    "Country": "Spain",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.15
+  },
+  {
+    "Country": "Spain",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.23
+  },
+  {
+    "Country": "Spain",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.02
+  },
+  {
+    "Country": "Spain",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.55
+  },
+  {
+    "Country": "Spain",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.37
+  },
+  {
+    "Country": "Spain",
+    "Genre": "Family",
+    "Rating (Avg)": 2.92
+  },
+  {
+    "Country": "Spain",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.36
+  },
+  {
+    "Country": "Spain",
+    "Genre": "History",
+    "Rating (Avg)": 3.24
+  },
+  {
+    "Country": "Spain",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.12
+  },
+  {
+    "Country": "Spain",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.26
+  },
+  {
+    "Country": "Spain",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.33
+  },
+  {
+    "Country": "Spain",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.12
+  },
+  {
+    "Country": "Spain",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.22
+  },
+  {
+    "Country": "Spain",
+    "Genre": "War",
+    "Rating (Avg)": 3.59
+  },
+  {
+    "Country": "Spain",
+    "Genre": "Western",
+    "Rating (Avg)": 3.47
+  },
+  {
+    "Country": "Sweden",
+    "Genre": "Action",
+    "Rating (Avg)": 3.55
+  },
+  {
+    "Country": "Sweden",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.18
+  },
+  {
+    "Country": "Sweden",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.29
+  },
+  {
+    "Country": "Sweden",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.38
+  },
+  {
+    "Country": "Sweden",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.45
+  },
+  {
+    "Country": "Sweden",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.69
+  },
+  {
+    "Country": "Sweden",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.65
+  },
+  {
+    "Country": "Sweden",
+    "Genre": "Family",
+    "Rating (Avg)": 3.38
+  },
+  {
+    "Country": "Sweden",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.52
+  },
+  {
+    "Country": "Sweden",
+    "Genre": "History",
+    "Rating (Avg)": 3.79
+  },
+  {
+    "Country": "Sweden",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.33
+  },
+  {
+    "Country": "Sweden",
+    "Genre": "Music",
+    "Rating (Avg)": 3.86
+  },
+  {
+    "Country": "Sweden",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.45
+  },
+  {
+    "Country": "Sweden",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.48
+  },
+  {
+    "Country": "Sweden",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.46
+  },
+  {
+    "Country": "Sweden",
+    "Genre": "TV Movie",
+    "Rating (Avg)": 4.28
+  },
+  {
+    "Country": "Sweden",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.32
+  },
+  {
+    "Country": "Sweden",
+    "Genre": "War",
+    "Rating (Avg)": 3.4
+  },
+  {
+    "Country": "Sweden",
+    "Genre": "Western",
+    "Rating (Avg)": 3.29
+  },
+  {
+    "Country": "Switzerland",
+    "Genre": "Action",
+    "Rating (Avg)": 2.88
+  },
+  {
+    "Country": "Switzerland",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.07
+  },
+  {
+    "Country": "Switzerland",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.72
+  },
+  {
+    "Country": "Switzerland",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.23
+  },
+  {
+    "Country": "Switzerland",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.14
+  },
+  {
+    "Country": "Switzerland",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.76
+  },
+  {
+    "Country": "Switzerland",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.56
+  },
+  {
+    "Country": "Switzerland",
+    "Genre": "History",
+    "Rating (Avg)": 3.8
+  },
+  {
+    "Country": "Switzerland",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.01
+  },
+  {
+    "Country": "Switzerland",
+    "Genre": "Music",
+    "Rating (Avg)": 3.47
+  },
+  {
+    "Country": "Switzerland",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.45
+  },
+  {
+    "Country": "Switzerland",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.36
+  },
+  {
+    "Country": "Switzerland",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.23
+  },
+  {
+    "Country": "Switzerland",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.17
+  },
+  {
+    "Country": "Switzerland",
+    "Genre": "War",
+    "Rating (Avg)": 3.6
+  },
+  {
+    "Country": "Syrian Arab Republic",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.76
+  },
+  {
+    "Country": "Syrian Arab Republic",
+    "Genre": "War",
+    "Rating (Avg)": 3.75
+  },
+  {
+    "Country": "Taiwan",
+    "Genre": "Action",
+    "Rating (Avg)": 3.64
+  },
+  {
+    "Country": "Taiwan",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.7
+  },
+  {
+    "Country": "Taiwan",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.2
+  },
+  {
+    "Country": "Taiwan",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.62
+  },
+  {
+    "Country": "Taiwan",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.75
+  },
+  {
+    "Country": "Taiwan",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.68
+  },
+  {
+    "Country": "Taiwan",
+    "Genre": "History",
+    "Rating (Avg)": 3.46
+  },
+  {
+    "Country": "Taiwan",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.09
+  },
+  {
+    "Country": "Taiwan",
+    "Genre": "Music",
+    "Rating (Avg)": 3.14
+  },
+  {
+    "Country": "Taiwan",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.96
+  },
+  {
+    "Country": "Taiwan",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.26
+  },
+  {
+    "Country": "Taiwan",
+    "Genre": "War",
+    "Rating (Avg)": 3.2
+  },
+  {
+    "Country": "Taiwan",
+    "Genre": "Western",
+    "Rating (Avg)": 3.88
+  },
+  {
+    "Country": "Thailand",
+    "Genre": "Action",
+    "Rating (Avg)": 3.35
+  },
+  {
+    "Country": "Thailand",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.58
+  },
+  {
+    "Country": "Thailand",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.29
+  },
+  {
+    "Country": "Thailand",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.33
+  },
+  {
+    "Country": "Thailand",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.92
+  },
+  {
+    "Country": "Thailand",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.37
+  },
+  {
+    "Country": "Thailand",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.77
+  },
+  {
+    "Country": "Thailand",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.91
+  },
+  {
+    "Country": "Thailand",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.77
+  },
+  {
+    "Country": "Thailand",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.31
+  },
+  {
+    "Country": "Tunisia",
+    "Genre": "Action",
+    "Rating (Avg)": 2.44
+  },
+  {
+    "Country": "Tunisia",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.7
+  },
+  {
+    "Country": "Tunisia",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.47
+  },
+  {
+    "Country": "Tunisia",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 2.44
+  },
+  {
+    "Country": "Tunisia",
+    "Genre": "War",
+    "Rating (Avg)": 2.44
+  },
+  {
+    "Country": "Turkey",
+    "Genre": "Action",
+    "Rating (Avg)": 2.77
+  },
+  {
+    "Country": "Turkey",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.01
+  },
+  {
+    "Country": "Turkey",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.51
+  },
+  {
+    "Country": "Turkey",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.58
+  },
+  {
+    "Country": "Turkey",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.56
+  },
+  {
+    "Country": "Turkey",
+    "Genre": "Family",
+    "Rating (Avg)": 2.91
+  },
+  {
+    "Country": "Turkey",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 2.98
+  },
+  {
+    "Country": "Turkey",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.37
+  },
+  {
+    "Country": "Turkey",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.67
+  },
+  {
+    "Country": "Turkey",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 2.59
+  },
+  {
+    "Country": "Turkey",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.19
+  },
+  {
+    "Country": "UK",
+    "Genre": "Action",
+    "Rating (Avg)": 3.05
+  },
+  {
+    "Country": "UK",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.11
+  },
+  {
+    "Country": "UK",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.47
+  },
+  {
+    "Country": "UK",
+    "Genre": "Captivating vision and Shakespearean drama",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "UK",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.32
+  },
+  {
+    "Country": "UK",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.27
+  },
+  {
+    "Country": "UK",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.76
+  },
+  {
+    "Country": "UK",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.38
+  },
+  {
+    "Country": "UK",
+    "Genre": "Epic heroes",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "UK",
+    "Genre": "Epic history and literature",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "UK",
+    "Genre": "Family",
+    "Rating (Avg)": 3.27
+  },
+  {
+    "Country": "UK",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.14
+  },
+  {
+    "Country": "UK",
+    "Genre": "Fantasy adventure, heroism, and swordplay",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "UK",
+    "Genre": "Historical battles and epic heroism",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "UK",
+    "Genre": "History",
+    "Rating (Avg)": 3.47
+  },
+  {
+    "Country": "UK",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.1
+  },
+  {
+    "Country": "UK",
+    "Genre": "Music",
+    "Rating (Avg)": 3.49
+  },
+  {
+    "Country": "UK",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.23
+  },
+  {
+    "Country": "UK",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.28
+  },
+  {
+    "Country": "UK",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.18
+  },
+  {
+    "Country": "UK",
+    "Genre": "Show All\u2026",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "UK",
+    "Genre": "TV Movie",
+    "Rating (Avg)": 3.46
+  },
+  {
+    "Country": "UK",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.21
+  },
+  {
+    "Country": "UK",
+    "Genre": "War",
+    "Rating (Avg)": 3.58
+  },
+  {
+    "Country": "UK",
+    "Genre": "Western",
+    "Rating (Avg)": 3.31
+  },
+  {
+    "Country": "USA",
+    "Genre": "Action",
+    "Rating (Avg)": 2.91
+  },
+  {
+    "Country": "USA",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.97
+  },
+  {
+    "Country": "USA",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.25
+  },
+  {
+    "Country": "USA",
+    "Genre": "Captivating vision and Shakespearean drama",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "USA",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.01
+  },
+  {
+    "Country": "USA",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.19
+  },
+  {
+    "Country": "USA",
+    "Genre": "Documentary",
+    "Rating (Avg)": 3.71
+  },
+  {
+    "Country": "USA",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.19
+  },
+  {
+    "Country": "USA",
+    "Genre": "Epic adventure and breathtaking battles",
+    "Rating (Avg)": 3.04
+  },
+  {
+    "Country": "USA",
+    "Genre": "Epic heroes",
+    "Rating (Avg)": 2.95
+  },
+  {
+    "Country": "USA",
+    "Genre": "Epic history and literature",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "USA",
+    "Genre": "Family",
+    "Rating (Avg)": 3.04
+  },
+  {
+    "Country": "USA",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 2.92
+  },
+  {
+    "Country": "USA",
+    "Genre": "Fantasy adventure, heroism, and swordplay",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "USA",
+    "Genre": "Historical battles and epic heroism",
+    "Rating (Avg)": 2.86
+  },
+  {
+    "Country": "USA",
+    "Genre": "History",
+    "Rating (Avg)": 3.49
+  },
+  {
+    "Country": "USA",
+    "Genre": "Horror",
+    "Rating (Avg)": 2.88
+  },
+  {
+    "Country": "USA",
+    "Genre": "Music",
+    "Rating (Avg)": 3.45
+  },
+  {
+    "Country": "USA",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.19
+  },
+  {
+    "Country": "USA",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.16
+  },
+  {
+    "Country": "USA",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 2.93
+  },
+  {
+    "Country": "USA",
+    "Genre": "Show All\u2026",
+    "Rating (Avg)": 2.95
+  },
+  {
+    "Country": "USA",
+    "Genre": "Superheroes in action-packed battles with villains",
+    "Rating (Avg)": 3.04
+  },
+  {
+    "Country": "USA",
+    "Genre": "TV Movie",
+    "Rating (Avg)": 3.11
+  },
+  {
+    "Country": "USA",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.0
+  },
+  {
+    "Country": "USA",
+    "Genre": "War",
+    "Rating (Avg)": 3.42
+  },
+  {
+    "Country": "USA",
+    "Genre": "Western",
+    "Rating (Avg)": 3.38
+  },
+  {
+    "Country": "USSR",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.4
+  },
+  {
+    "Country": "USSR",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.67
+  },
+  {
+    "Country": "USSR",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.88
+  },
+  {
+    "Country": "USSR",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.88
+  },
+  {
+    "Country": "USSR",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.92
+  },
+  {
+    "Country": "USSR",
+    "Genre": "Family",
+    "Rating (Avg)": 3.35
+  },
+  {
+    "Country": "USSR",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.59
+  },
+  {
+    "Country": "USSR",
+    "Genre": "History",
+    "Rating (Avg)": 3.95
+  },
+  {
+    "Country": "USSR",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.28
+  },
+  {
+    "Country": "USSR",
+    "Genre": "Music",
+    "Rating (Avg)": 3.47
+  },
+  {
+    "Country": "USSR",
+    "Genre": "Mystery",
+    "Rating (Avg)": 4.23
+  },
+  {
+    "Country": "USSR",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.85
+  },
+  {
+    "Country": "USSR",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 3.63
+  },
+  {
+    "Country": "USSR",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.13
+  },
+  {
+    "Country": "USSR",
+    "Genre": "War",
+    "Rating (Avg)": 4.1
+  },
+  {
+    "Country": "Uganda",
+    "Genre": "Action",
+    "Rating (Avg)": 4.04
+  },
+  {
+    "Country": "Uganda",
+    "Genre": "Comedy",
+    "Rating (Avg)": 4.04
+  },
+  {
+    "Country": "Uganda",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.9
+  },
+  {
+    "Country": "Uganda",
+    "Genre": "Drama",
+    "Rating (Avg)": 4.17
+  },
+  {
+    "Country": "Ukraine",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.83
+  },
+  {
+    "Country": "Ukraine",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.64
+  },
+  {
+    "Country": "Ukraine",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.66
+  },
+  {
+    "Country": "Ukraine",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.83
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Genre": "Action",
+    "Rating (Avg)": 2.59
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.66
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.13
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Genre": "Crime",
+    "Rating (Avg)": 3.34
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Genre": "Drama",
+    "Rating (Avg)": 2.96
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 1.87
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 2.8
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Genre": "Thriller",
+    "Rating (Avg)": 2.8
+  },
+  {
+    "Country": "Uruguay",
+    "Genre": "Adventure",
+    "Rating (Avg)": 3.57
+  },
+  {
+    "Country": "Uruguay",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.57
+  },
+  {
+    "Country": "Uruguay",
+    "Genre": "Comedy",
+    "Rating (Avg)": 3.49
+  },
+  {
+    "Country": "Uruguay",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.43
+  },
+  {
+    "Country": "Uruguay",
+    "Genre": "Family",
+    "Rating (Avg)": 3.57
+  },
+  {
+    "Country": "Venezuela",
+    "Genre": "Documentary",
+    "Rating (Avg)": 4.29
+  },
+  {
+    "Country": "Venezuela",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.38
+  },
+  {
+    "Country": "Venezuela",
+    "Genre": "War",
+    "Rating (Avg)": 3.38
+  },
+  {
+    "Country": "Yugoslavia",
+    "Genre": "Action",
+    "Rating (Avg)": 1.86
+  },
+  {
+    "Country": "Yugoslavia",
+    "Genre": "Adventure",
+    "Rating (Avg)": 2.52
+  },
+  {
+    "Country": "Yugoslavia",
+    "Genre": "Animation",
+    "Rating (Avg)": 3.53
+  },
+  {
+    "Country": "Yugoslavia",
+    "Genre": "Drama",
+    "Rating (Avg)": 3.54
+  },
+  {
+    "Country": "Yugoslavia",
+    "Genre": "Fantasy",
+    "Rating (Avg)": 3.53
+  },
+  {
+    "Country": "Yugoslavia",
+    "Genre": "History",
+    "Rating (Avg)": 3.46
+  },
+  {
+    "Country": "Yugoslavia",
+    "Genre": "Horror",
+    "Rating (Avg)": 3.22
+  },
+  {
+    "Country": "Yugoslavia",
+    "Genre": "Mystery",
+    "Rating (Avg)": 3.44
+  },
+  {
+    "Country": "Yugoslavia",
+    "Genre": "Romance",
+    "Rating (Avg)": 3.19
+  },
+  {
+    "Country": "Yugoslavia",
+    "Genre": "Science Fiction",
+    "Rating (Avg)": 1.86
+  },
+  {
+    "Country": "Yugoslavia",
+    "Genre": "Thriller",
+    "Rating (Avg)": 3.44
+  },
+  {
+    "Country": "Yugoslavia",
+    "Genre": "War",
+    "Rating (Avg)": 3.2
+  }
+]

@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Global Movie Genre Ratings</title>
+  <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      margin-bottom: 20px;
+    }
+
+    .flex-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 40px;
+      align-items: flex-start;
+    }
+
+    .chart-container, .description {
+      flex: 1;
+      min-width: 400px;
+    }
+
+    .description {
+      max-width: 600px;
+    }
+
+    .section {
+      margin-bottom: 60px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Website Title -->
+  <div style="text-align: center;">
+    <h1>Global Analysis of Movie Genre Ratings</h1>
+    <h2>AP Statistics Period 2</h2>
+    <h2>Ziyad Hamed</h2>
+  </div>
+  <!-- Radar Chart Section -->
+  <h2>Average Movie Ratings by Genre</h2>
+  <div class="flex-row section">
+    <div id="radarChart" class="chart-container"></div>
+    <div class="description">
+      <p>
+        For my project, I decided to look at the different rating statistics of movies across the world.
+        After seeing a huge Letterboxd dataset on Kaggle, with information on user input on over 10,000 movies,
+        I was really intrigued to see if there was any correlation between movie genre and location. As a result,
+        I used Python and Pandas to clean and analyze the data, and ApexCharts to visualize it.
+      </p>
+
+      <p>
+        The radar chart to the left shows the average ratings of different genres across various regions.
+        Each region is represented by a different color, and the chart allows for easy comparison of genre ratings.
+        Using Pandas, I filtered each data entry by country and genre. I then assigned each country to a region, as listed below,
+        and plotted the average rating each genre received in that region.
+        
+        To my surprise, I found the ratings to be roughly consistent across all regions, with exception to a few genres, like
+        "Music", "War", and "Fantasy".
+        <br><br>
+        <i>But what does the data say?</i>
+        <br><br>
+        While I did want to run a difference of means test to see if the outlier genres we visually saw were indeed statistically significant,
+        the purpose of this project was just to visualize the data and its mean, median, and standard deviation.
+        Speaking of which, the overall mean rating of all genres was 3.19, with a median of 3.2 and a standard deviation of .33 (all values are rounded to the nearest hundreth).
+        So the data does confirm or at least suggest that overall, region does <i><b>not</b></i> play a role in preference of genres. 
+      </p>
+    </div>
+  </div>
+
+  <!-- Country-specific Bar Chart -->
+  <div class="section">
+    <label for="countrySelect">Select Country:</label>
+    <select id="countrySelect"></select>
+    <div id="chart" style="margin-top: 20px;"></div>
+    <p style="max-width: 800px;">
+      Now while regions are all cool, sometimes you want to see the data on a more granular level.
+      The above bar chart allows you, through the dropdown menu, to look at the average genre ratings for each country sampled.
+      It's interesting to look at the differences between countries, and see how they compare to each other.
+      For example, the United States has a very high rating for "History" movies, while countries like Brazil and Iceland have a much lower rating.
+    </p>
+  </div>
+
+  <!-- 5-Star Ratings Chart -->
+  <div class="section">
+    <h2>5-Star Ratings by Genre</h2>
+    <div id="fiveStarChart" style="margin-top: 20px;"></div>
+    <p style="max-width: 800px;">
+      The chart above shows the total number of 5-star ratings for each genre. The mean is 18,137,070.56, with median 7,307,559.0, and standard deviation of 21,905,375.19 (rouned to the nearest hundreth). 
+      From the beginning, it's very noticable that "Drama" is by far the most popular of the bunch, with almost 100 million ratings of five stars. The next closest is "Comedy", with about 50 million ratings,
+      marking about a 50% difference. This really shocked me. What some of you might of noticed is that "Documentary" consistently ranks among the top,
+      in fact, I believe the highest on <i><b>aggregate</b></i> than any other genre. However, here it ranks almost dead last, with only about 10 million ratings.
+      <br><br>
+      I believe this is because of the emotional reactions dramas and comedies elicit from the viewer. I think they're more likely to leave a noticable impression and fond memories to
+      warrant a five star rating. Many documentaries on the other hand, don't have that same emotional pull, and are less likely to leave such an impression on the viewer (Many do but not all).
+      This data is also unaffected by polarity. All that matters is the total number of f star ratings, not the average rating; meaning a movie with equal ratings of five stars and one stars would
+      appear very high on this chart, despite on average being rated 2.5 stars. 
+    </p>
+  </div>
+
+  <!-- Chart Scripts -->
+  <script>
+    let chart;
+    let radarChart;
+    let allData = [];
+
+    // Load Region-Genre Radar Chart
+    fetch("static/averageRatingReg.json")
+      .then(res => res.json())
+      .then(regionData => {
+        const regionNames = [
+          "North America", "Europe", "Asia",
+          "Middle East", "Africa", "Oceania", "South America"
+        ];
+        const regionColors = [
+          "#EB421A", "#4C416B", "#511AEB",
+          "#EBD91A", "#1AEBA2", "#968F42", "#6B4941"
+        ];
+        const trimmedRegionNames = regionNames.slice(0, regionData.length);
+        const genres = Object.keys(regionData[0]);
+
+        const series = regionData.map((regionEntry, i) => ({
+          name: trimmedRegionNames[i],
+          data: genres.map(g => regionEntry[g] || 0)
+        }));
+
+        const radarOptions = {
+          chart: { type: 'radar', height: 900 },
+          title: { text: 'Average Genre Ratings by Region' },
+          xaxis: { categories: genres },
+          yaxis: { min: 0, max: 5 },
+          series: series,
+          colors: regionColors,
+          plotOptions: {
+            radar: {
+              polygons: {
+                strokeColor: '#e4e4e4',
+                fillOpacity: 0.1
+              }
+            }
+          },
+          grid: {
+            padding: { top: 0, right: 20, bottom: 0, left: 20 }
+          },
+          responsive: [{
+            breakpoint: 1000,
+            options: {
+              chart: { height: 500 },
+              grid: {
+                padding: { top: 10, right: 20, bottom: 0, left: 20 }
+              }
+            }
+          }]
+        };
+
+        radarChart = new ApexCharts(document.querySelector("#radarChart"), radarOptions);
+        radarChart.render();
+      });
+
+    // Load Country-Specific Bar Chart
+    fetch("static/averageRatingInter.json")
+      .then(response => response.json())
+      .then(data => {
+        allData = data;
+        const countries = [...new Set(data.map(item => item.Country))].sort();
+        const select = document.getElementById("countrySelect");
+
+        countries.forEach(country => {
+          const option = document.createElement("option");
+          option.value = country;
+          option.textContent = country;
+          select.appendChild(option);
+        });
+
+        renderChart(countries[0]);
+
+        select.addEventListener("change", () => {
+          renderChart(select.value);
+        });
+      });
+
+    function renderChart(country) {
+      const countryData = allData.filter(item => item.Country === country);
+      const genres = countryData.map(item => item.Genre);
+      const ratings = countryData.map(item => item["Rating (Avg)"]);
+
+      const options = {
+        chart: { type: 'bar', height: 350 },
+        series: [{ name: 'Avg Rating', data: ratings }],
+        xaxis: { categories: genres },
+        title: { text: `Average Ratings by Genre — ${country}` }
+      };
+
+      if (chart) {
+        chart.updateOptions(options);
+      } else {
+        chart = new ApexCharts(document.querySelector("#chart"), options);
+        chart.render();
+      }
+    }
+
+    // Load 5-Star Ratings Horizontal Bar Chart
+    fetch("static/five_star_ratings.json")
+      .then(response => response.json())
+      .then(data => {
+        data.sort((a, b) => b["Rating (5 Stars)"] - a["Rating (5 Stars)"]);
+
+        const genres = data.map(item => item.Genre);
+        const ratings = data.map(item => item["Rating (5 Stars)"]);
+
+        const options = {
+          chart: { type: 'bar', height: 900 },
+          series: [{ name: '5-Star Ratings', data: ratings }],
+          xaxis: {
+            categories: genres,
+            title: { text: 'Number of 5-Star Ratings' },
+            labels: {
+              formatter: val => val.toLocaleString()
+            }
+          },
+          colors: ["#523314"],
+          plotOptions: {
+            bar: { horizontal: true, barHeight: '75%' }
+          },
+          title: {
+            text: 'Total 5-Star Ratings by Genre',
+            align: 'center'
+          },
+          tooltip: {
+            y: {
+              formatter: val => val.toLocaleString()
+            }
+          }
+        };
+
+        const fiveStarChart = new ApexCharts(document.querySelector("#fiveStarChart"), options);
+        fiveStarChart.render();
+      });
+  </script>
+</body>
+</html>

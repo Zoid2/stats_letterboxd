@@ -1,0 +1,78 @@
+[
+  {
+    "Genre":"Action",
+    "Rating (5 Stars)":35088383
+  },
+  {
+    "Genre":"Adventure",
+    "Rating (5 Stars)":44920196
+  },
+  {
+    "Genre":"Animation",
+    "Rating (5 Stars)":27263192
+  },
+  {
+    "Genre":"Comedy",
+    "Rating (5 Stars)":53783343
+  },
+  {
+    "Genre":"Crime",
+    "Rating (5 Stars)":28160822
+  },
+  {
+    "Genre":"Documentary",
+    "Rating (5 Stars)":1307195
+  },
+  {
+    "Genre":"Drama",
+    "Rating (5 Stars)":91936600
+  },
+  {
+    "Genre":"Family",
+    "Rating (5 Stars)":25228860
+  },
+  {
+    "Genre":"Fantasy",
+    "Rating (5 Stars)":26901874
+  },
+  {
+    "Genre":"History",
+    "Rating (5 Stars)":7307559
+  },
+  {
+    "Genre":"Horror",
+    "Rating (5 Stars)":20382258
+  },
+  {
+    "Genre":"Music",
+    "Rating (5 Stars)":6838982
+  },
+  {
+    "Genre":"Mystery",
+    "Rating (5 Stars)":16861154
+  },
+  {
+    "Genre":"Romance",
+    "Rating (5 Stars)":28590304
+  },
+  {
+    "Genre":"Science Fiction",
+    "Rating (5 Stars)":31729992
+  },
+  {
+    "Genre":"TV Movie",
+    "Rating (5 Stars)":578533
+  },
+  {
+    "Genre":"Thriller",
+    "Rating (5 Stars)":34634163
+  },
+  {
+    "Genre":"War",
+    "Rating (5 Stars)":6094674
+  },
+  {
+    "Genre":"Western",
+    "Rating (5 Stars)":2092471
+  }
+]
